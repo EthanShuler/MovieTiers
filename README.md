@@ -1,4 +1,4 @@
-###Movie Tiers
+###Movie Tiers###
 
 This project is in progress!
 
