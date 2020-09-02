@@ -10,3 +10,5 @@ Tech stack:
 - **Express.JS**
 - **React.JS**
 - **Node.JS**
+
+as of right now, the project is configured for a dev environment, and as to not expose my mongoDb password, there is one file excluded from this repository, /config/mongoPass.js, which exports the mongoDb password.
